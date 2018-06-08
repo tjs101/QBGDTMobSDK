@@ -25,7 +25,7 @@ Pod::Spec.new do |s|
 
   s.source_files = "QBGDTMobSDK/*.h"
 
-  s.frameworks = "CoreLocation","AdSupport","QuarzCore","SystemConfiguration","CoreTelephony","Security","StoreKit","WebKit","AVFoundation"
+  s.frameworks = "CoreLocation","AdSupport","QuartzCore","SystemConfiguration","CoreTelephony","Security","StoreKit","WebKit","AVFoundation"
 
   s.libraries = "z", "xml2"
 
