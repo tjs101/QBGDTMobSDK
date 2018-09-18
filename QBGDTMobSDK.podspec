@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = "9.0"
  
 
-  s.source       = { :git => "https://github.com/tjs101/QBSPeechUtility.git", :tag => "#{s.version}" }
+  s.source       = { :git => "https://github.com/tjs101/QBGDTMobSDK.git", :tag => "#{s.version}" }
 
   s.source_files = "QBGDTMobSDK/*.h"
 
