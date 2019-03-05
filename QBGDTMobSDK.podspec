@@ -9,8 +9,8 @@
 Pod::Spec.new do |s|
 
   s.name         = "QBGDTMobSDK"
-  s.version      = "1.4.8.4"
-  s.summary      = "腾讯联盟2018-12-18 SDK."
+  s.version      = "1.4.8.7"
+  s.summary      = "腾讯联盟2019-3-1 SDK."
 
   s.homepage     = "https://github.com/tjs101/QBFramework_IOS"
 
@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = "9.0"
  
 
-  s.source       = { :git => "https://github.com/tjs101/QBGDTMobSDK.git", :tag => "#{s.version}" }
+  s.source       = { :git => "", :tag => "#{s.version}" }
 
   s.source_files = "QBGDTMobSDK/*.h"
 
