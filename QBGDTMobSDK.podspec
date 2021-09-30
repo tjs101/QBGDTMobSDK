@@ -9,8 +9,8 @@
 Pod::Spec.new do |s|
 
   s.name         = "QBGDTMobSDK"
-  s.version      = "1.4.13.10"
-  s.summary      = "腾讯联盟4.13.10 2021-09-08 SDK."
+  s.version      = "1.4.13.20"
+  s.summary      = "腾讯联盟4.13.20 2021-09-28 SDK."
 
   s.homepage     = "https://github.com/tjs101/QBGDTMobSDK"
 
