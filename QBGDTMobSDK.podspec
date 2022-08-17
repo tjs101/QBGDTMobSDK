@@ -9,16 +9,16 @@
 Pod::Spec.new do |s|
 
   s.name         = "QBGDTMobSDK"
-  s.version      = "1.4.13.52"
-  s.summary      = "腾讯联盟4.13.52 2022-03-18 SDK."
+  s.version      = "1.4.13.81"
+  s.summary      = "腾讯联盟4.13.81 2022-07-25 SDK."
 
   s.homepage     = "https://github.com/tjs101/QBGDTMobSDK"
 
   s.license      = "MIT"
 
   s.author             = { "tjs101" => "tjs101@live.cn" }
-  s.platform     = :ios, "9.0"
-  s.ios.deployment_target = "9.0"
+  s.platform     = :ios, "10.0"
+  s.ios.deployment_target = "10.0"
  
 
   s.source       = { :git => "", :tag => "#{s.version}" }
